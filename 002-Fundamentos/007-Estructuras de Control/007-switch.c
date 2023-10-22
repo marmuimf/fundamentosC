@@ -5,14 +5,14 @@ int main (int argc,char *argv[]){
     int diadelasemana=1;
     switch(diadelasemana){
         case 1:
-            printf("Hoy es lunes \n");
-            break;
-            case 2:
-            printf("Hoy es martes \n");
-            break;
-            case 3:
-            printf("Hoy es miercoles \n");
-            break;
+        printf("Hoy es lunes \n");
+        break;
+        case 2:
+        printf("Hoy es martes \n");
+        break;
+        case 3:
+        printf("Hoy es miercoles \n");
+        break;
     }
     return 0;
     

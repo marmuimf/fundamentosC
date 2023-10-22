@@ -3,13 +3,11 @@
 
 int main (int argc,char *argv[]){
     
-    char nombre[]="Mickey ";
+    char nombre[]="Mickey "; 
     char apellidos[]="Mouse";
     
     strcat(nombre, apellidos);//concateno
     printf("Mi nombre es: %s", nombre);
     
-    
-   
     return 0;
 }

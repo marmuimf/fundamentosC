@@ -2,9 +2,8 @@
 
 int main (int argc,char *argv[]){
     /* 
-        multicomentario
-        1
-        2
+        Multicomentario
+        todo lo encerrado aqui es un comentario
     */ 
     return 0;
 }

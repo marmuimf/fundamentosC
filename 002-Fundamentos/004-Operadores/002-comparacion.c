@@ -11,4 +11,6 @@ int main (int argc,char *argv[]){
     printf("desigualdad: %i \n",(4!=3));
    
     return 0;
+    
+    //true=1, false=0
 }

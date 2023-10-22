@@ -4,8 +4,8 @@ int main (int argc,char *argv[]){
     
     int dia=1;
     while (dia < 31){
-        printf("Hoy es el dia: %i del mes\n ",dia);
-        dia++;
+        printf("Hoy es el dia: %i del mes\n",dia);
+        dia++;//lo controlamos con esto
     }
     return 0;
 }

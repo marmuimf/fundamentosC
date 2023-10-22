@@ -12,7 +12,7 @@ int main (int argc,char *argv[]){
     agenda[1][0]="Minnie ";
     agenda[1][1]="Mouse";
     agenda[1][2]="54321";
-    agenda[1][3]="hatecats@gmail.com";gcc
+    agenda[1][3]="hatecats@gmail.com";
     
     printf("El correo del segundo registro de la agenda es: %s \n ",agenda[1][3]);
     

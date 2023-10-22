@@ -7,5 +7,5 @@ int main (int argc,char *argv[]){
         printf("Tu edad es menor que 60 anos");
     }while(edad<60);
     return 0;
-    //no ejecutar porque se queda en bucle
+    //no ejecutar, bucle infinito
 }

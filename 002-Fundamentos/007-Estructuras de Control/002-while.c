@@ -7,4 +7,5 @@ int main (int argc,char *argv[]){
         printf("Hoy es el dia: %i del mes\n ",dia);
     }
     return 0;
+    //no ejecutar, es un bucle sin fin
 }

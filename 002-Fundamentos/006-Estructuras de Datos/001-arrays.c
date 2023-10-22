@@ -2,7 +2,7 @@
 
 int main (int argc,char *argv[]){
     
-    int telefonos[20];
+    int telefonos[20];//arreglo - admite 20 tlf
     
     telefonos[0]=12345;
     telefonos[1]=23456;

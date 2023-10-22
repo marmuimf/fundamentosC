@@ -2,6 +2,6 @@
 
 int main (int argc,char *argv[]){
     //Esto es un comentario
-    //Esto es otro comentario
+    //Los comentarios no se extraen fuera del programa
     return 0;
 }

@@ -2,8 +2,8 @@
 
 int main (int argc,char *argv[]){
     
-    float alturagcc 00 = 1.78;
-    printf ("Mi altura es de %f metros \n", altura);
+    float altura= 1.78;
+    printf ("Mi altura es de %f metros \n", altura);//%f - tipo float
    
     return 0;
 }
